@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "apellido_paterno": "Melindres",
+            "apellido_materno": "Villamarin",
+            "nombre": "Yulman",
+            "username": "ymelindres",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 2,
+            "apellido_paterno": "Largo",
+            "apellido_materno": "Ramirez",
+            "nombre": "Marlon",
+            "username": "mlargo",
+            "password": "099ebea48ea9666a7da2177267983138"
+        }
+    ]
+}
